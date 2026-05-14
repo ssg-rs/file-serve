@@ -172,7 +172,7 @@ impl std::error::Error for Error {}
 
 fn static_file_handler(dest: &std::path::Path, req: tiny_http::Request) -> Result<(), Error> {
     // grab the requested path
-    let mut req_path = req.url().to_string();
+    let mut req_path = req.url().to_owned();
 
     // strip off any querystrings so path.is_file() matches and doesn't stick index.html on the end
     // of the path (querystrings often used for cachebusting)
