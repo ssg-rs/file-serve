@@ -3,6 +3,7 @@ repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v6.0.0
     hooks:
+    - id: check-yaml
     - id: check-json
     - id: check-toml
     - id: check-merge-conflict
@@ -16,3 +17,7 @@ repos:
     rev: v1.1.11
     hooks:
     - id: committed
+  - repo: https://github.com/zizmorcore/zizmor-pre-commit
+    rev: v1.22.0
+    hooks:
+    - id: zizmor
