@@ -1,4 +1,4 @@
-# Contributing to cobalt.rs
+# Contributing to file-serve
 
 Thanks for wanting to contribute! There are many ways to contribute and we
 appreciate any level you're willing to do.
@@ -81,6 +81,6 @@ When we're ready to release, a project owner should do the following
 2. Determine what the next version is, according to semver
 3. Run [`cargo release -x <level>`](https://github.com/crate-ci/cargo-release)
 
-[issues]: https://github.com/cobalt-rs/cobalt.rs/issues
-[new issue]: https://github.com/cobalt-rs/cobalt.rs/issues/new
-[all issues]: https://github.com/cobalt-rs/cobalt.rs/issues?utf8=%E2%9C%93&q=is%3Aissue
+[issues]: https://github.com/ssg-rs/file-serve/issues
+[new issue]: https://github.com/ssg-rs/file-serve/issues/new
+[all issues]: https://github.com/ssg-rs/file-serve/issues?utf8=%E2%9C%93&q=is%3Aissue

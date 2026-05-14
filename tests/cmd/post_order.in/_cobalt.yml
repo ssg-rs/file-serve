@@ -1,6 +1,0 @@
-posts:
-  order: Asc
-site:
-  title: cobalt blog
-syntax_highlight:
-  enabled: false
