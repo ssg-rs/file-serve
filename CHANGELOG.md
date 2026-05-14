@@ -74,21 +74,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [0.1.1] - 2022-04-04
 
 <!-- next-url -->
-[Unreleased]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.3.10...HEAD
-[0.3.10]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.3.9...file-serve-v0.3.10
-[0.3.9]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.3.8...file-serve-v0.3.9
-[0.3.8]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.3.7...file-serve-v0.3.8
-[0.3.7]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.3.6...file-serve-v0.3.7
-[0.3.6]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.3.5...file-serve-v0.3.6
-[0.3.5]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.3.4...file-serve-v0.3.5
-[0.3.4]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.3.3...file-serve-v0.3.4
-[0.3.3]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.3.2...file-serve-v0.3.3
-[0.3.2]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.3.1...file-serve-v0.3.2
-[0.3.1]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.3.0...file-serve-v0.3.1
-[0.3.0]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.2.4...file-serve-v0.3.0
-[0.2.4]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.2.3...file-serve-v0.2.4
-[0.2.3]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.2.2...file-serve-v0.2.3
-[0.2.2]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.2.1...file-serve-v0.2.2
-[0.2.1]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.2.0...file-serve-v0.2.1
-[0.2.0]: https://github.com/cobalt-org/cobalt.rs/compare/file-serve-v0.1.1...file-serve-v0.2.0
-[0.1.1]: https://github.com/cobalt-org/cobalt.rs/compare/2030b59e4632a0a618821274205a54741dffea52...file-serve-v0.1.1
+[Unreleased]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.10...HEAD
+[0.3.10]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.9...file-serve-v0.3.10
+[0.3.9]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.8...file-serve-v0.3.9
+[0.3.8]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.7...file-serve-v0.3.8
+[0.3.7]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.6...file-serve-v0.3.7
+[0.3.6]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.5...file-serve-v0.3.6
+[0.3.5]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.4...file-serve-v0.3.5
+[0.3.4]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.3...file-serve-v0.3.4
+[0.3.3]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.2...file-serve-v0.3.3
+[0.3.2]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.1...file-serve-v0.3.2
+[0.3.1]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.0...file-serve-v0.3.1
+[0.3.0]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.2.4...file-serve-v0.3.0
+[0.2.4]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.2.3...file-serve-v0.2.4
+[0.2.3]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.2.2...file-serve-v0.2.3
+[0.2.2]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.2.1...file-serve-v0.2.2
+[0.2.1]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.2.0...file-serve-v0.2.1
+[0.2.0]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.1.1...file-serve-v0.2.0
+[0.1.1]: https://github.com/ssg-rs/file-serve/compare/2030b59e4632a0a618821274205a54741dffea52...file-serve-v0.1.1

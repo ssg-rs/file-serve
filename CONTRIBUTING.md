@@ -73,6 +73,7 @@ For code organization, we recommend
 
 Pre-requisites
 - Running `cargo login`
+- A member of `ssg-rs:Maintainers`
 - Push permission to the repo
 - [`cargo-release`](https://github.com/crate-ci/cargo-release/)
 
