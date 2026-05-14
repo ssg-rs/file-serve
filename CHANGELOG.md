@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 <!-- next-header -->
 ## [Unreleased] - ReleaseDate
 
+## [0.3.11] - 2026-05-14
+
 ## [0.3.10] - 2025-10-01
 
 ## [0.3.9] - 2025-09-25
@@ -74,7 +76,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [0.1.1] - 2022-04-04
 
 <!-- next-url -->
-[Unreleased]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.10...HEAD
+[Unreleased]: https://github.com/ssg-rs/file-serve/compare/v0.3.11...HEAD
+[0.3.11]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.10...v0.3.11
 [0.3.10]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.9...file-serve-v0.3.10
 [0.3.9]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.8...file-serve-v0.3.9
 [0.3.8]: https://github.com/ssg-rs/file-serve/compare/file-serve-v0.3.7...file-serve-v0.3.8

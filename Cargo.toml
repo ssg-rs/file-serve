@@ -115,7 +115,7 @@ debug = "line-tables-only"  # requires Cargo 1.71
 
 [package]
 name = "file-serve"
-version = "0.3.10"
+version = "0.3.11"
 description = "HTTP Static File Server"
 categories = ["development-tools::testing", "web-programming::http-server"]
 keywords = ["serve", "http-server", "static-files", "http", "server"]
