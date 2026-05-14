@@ -1,12 +1,31 @@
-# ![Cobalt](https://raw.githubusercontent.com/cobalt-org/logos/master/cobald.logo.02.resize.png)
+# file-serve
 
-[![](https://img.shields.io/crates/v/cobalt-bin.svg?maxAge=25920)](https://crates.io/crates/cobalt-bin)
+> HTTP Static File Server
 
-A straightforward static site generator written in [Rust](http://www.rust-lang.org/).
+[![Documentation](https://img.shields.io/badge/docs-master-blue.svg)][Documentation]
+![License](https://img.shields.io/crates/l/file-serve.svg)
+[![Crates Status](https://img.shields.io/crates/v/file-serve.svg)][Crates.io]
 
-## Documentation
+## About
 
-- [User documentation](https://cobalt-org.github.io/) ([website source](https://github.com/cobalt-org/cobalt-org.github.io))
-- [API documentation](https://docs.rs/cobalt-bin)
-- [Contributing](https://github.com/cobalt-org/cobalt.rs/blob/master/CONTRIBUTING.md)
-- [LICENSE](https://github.com/cobalt-org/cobalt.rs/blob/master/LICENSE-MIT)
+`file-serve` focuses on augmenting development of your site.  It prioritizes
+small size and compile times over speed, scalability, or security.
+
+## License
+
+Licensed under either of
+
+ * Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+ * MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+
+at your option.
+
+### Contribution
+
+Unless you explicitly state otherwise, any contribution intentionally
+submitted for inclusion in the work by you, as defined in the Apache-2.0
+license, shall be dual licensed as above, without any additional terms or
+conditions.
+
+[Crates.io]: https://crates.io/crates/file-serve
+[Documentation]: https://docs.rs/file-serve

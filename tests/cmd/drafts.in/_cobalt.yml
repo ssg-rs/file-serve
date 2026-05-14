@@ -1,5 +1,0 @@
-include_drafts: true
-posts:
-  drafts_dir: _drafts
-syntax_highlight:
-  enabled: false

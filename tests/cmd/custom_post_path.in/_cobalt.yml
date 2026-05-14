@@ -1,5 +1,0 @@
-posts:
-  default:
-    permalink: "/blog/{{year}}/{{month}}/{{day}}/"
-syntax_highlight:
-  enabled: false

@@ -1,4 +1,0 @@
-
-function simpleFunction() {
-    return 'text';
-}

@@ -1,8 +1,0 @@
-ignore:
-  - README
-  - "**/*.scss"
-  - "!.htaccess"
-  - "!.well-known"
-  - "!.well-known/**"
-syntax_highlight:
-  enabled: false
